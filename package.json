@@ -1,0 +1,12 @@
+{
+  "name": "hello-abbott",
+  "version": "1.0.0",
+  "description": "A tiny web app used across the Abbott Git and GitHub course.",
+  "type": "module",
+  "main": "src/greeting.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js"
+  },
+  "license": "MIT"
+}

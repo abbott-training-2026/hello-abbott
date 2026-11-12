@@ -1,0 +1,12 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Logs and OS/editor cruft
+*.log
+.DS_Store
+.vscode/
+
+# Local secrets - never commit these
+*.env
+!example.env
